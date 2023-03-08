@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MOBERZ</string>
+    <string name="title_Home">주변 이벤트</string>
+    <string name="title_MyEvent">나의 이벤트</string>
+    <string name="title_TodayEvent">오늘 이벤트</string>
+    <string name="title_setting">설정</string>
+
+    <string name="cc">ⓒ 2019. LunchParty</string>
+    <!--// 카카오 앱 키-->
+    <string name="kakao_app_key">b97a0a381915aed3dd50af14787f593c</string>
+    <!--facebook 앱 키-->
+    <string name="facebook_app_id">2385641078353865</string>
+    <string name="fb_login_protocol_scheme">fb2385641078353865</string>
+
+
+</resources>
