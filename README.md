@@ -28,7 +28,7 @@ MOBERZ
 
 <br />
 
-### JNU BUS UI/UX
+### Moberz UI/UX
    
 <p align="center">
 <img src="https://user-images.githubusercontent.com/44343908/223744503-a1d6c1a7-bf92-4c96-b255-1fa32300e2cd.png"  width="270" />   
